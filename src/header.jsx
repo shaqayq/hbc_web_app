@@ -18,6 +18,10 @@ export default function Header() {
             <Link to="/products">
                 Products
             </Link>
+
+            <Link to="/contact">
+                Conatc
+            </Link>
             <h1>📚 Student Dashboard</h1>
             <p>Manage your daily tasks</p>
         </header>
